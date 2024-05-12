@@ -10,8 +10,11 @@
 
 比较丐的Z690主板，但好在DDR4内存的方便利旧，而且在M-ATX的版型下有3个M.2硬盘槽，外加一个M.2的网卡槽，扩展性杠杠的。另外USB3.2 Gen 2x2 C口也有了，满足了。
 
-链接：https://pan.quark.cn/s/504894ad5d94 提取码：bZ5i
 
 在此要感谢B站“小明和他的女朋友”，是在他的EFI基础上修改升级而来
+
 https://github.com/Xmingbai/ASUS-Z690M-PLUS-hackintosh
+
 https://www.bilibili.com/video/BV1Kq4y16737/
+
+
