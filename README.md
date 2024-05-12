@@ -25,5 +25,17 @@ https://github.com/Xmingbai/ASUS-Z690M-PLUS-hackintosh
 
 https://www.bilibili.com/video/BV1Kq4y16737/
 
+补充一下，此主板BIOS没有CFG lock选项，需自行修改（或修改OC相关项），我是参照B站“乌龙蜜桃来一打”修改了BIOS中0x44的值
 
-![USB口定制](https://github.com/zhuyming/Asus-Z690M-plus-13600kf-5600xt/blob/main/截屏2024-05-11%2013.13.56.png)
+https://www.bilibili.com/video/BV1LV4y1N7jF/
+
+https://bbs.pcbeta.com/viewthread-1838436-1-1.html
+
+
+![跑分，估计偏低些](https://github.com/zhuyming/Asus-Z690M-plus-13600kf-5600xt/blob/main/截屏2024-05-11%2013.13.56.png)
+
+![描述](https://github.com/zhuyming/Asus-Z690M-plus-13600kf-5600xt/blob/main/截屏2024-05-11%2013.14.31.png)
+
+![睿频](https://github.com/zhuyming/Asus-Z690M-plus-13600kf-5600xt/blob/main/截屏2024-05-11%2013.15.14.png)
+
+![USB口定制](https://github.com/zhuyming/Asus-Z690M-plus-13600kf-5600xt/blob/main/截屏2024-05-11%2013.16.51.png)
