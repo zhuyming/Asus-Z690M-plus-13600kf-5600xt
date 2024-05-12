@@ -26,4 +26,4 @@ https://github.com/Xmingbai/ASUS-Z690M-PLUS-hackintosh
 https://www.bilibili.com/video/BV1Kq4y16737/
 
 
-![USB口定制]([https://github.com/zhuyming/Asus-Z690M-plus-13600kf-5600xt/blob/main/截屏2024-05-11%2013.13.56.png]
+![USB口定制](https://github.com/zhuyming/Asus-Z690M-plus-13600kf-5600xt/blob/main/截屏2024-05-11%2013.13.56.png)
